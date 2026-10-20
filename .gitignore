@@ -1,0 +1,11 @@
+﻿pretrained/
+models/
+data/
+logs/
+*.pt
+*.pth
+*.bin
+*.safetensors
+__pycache__/
+*.pyc
+.idea/
