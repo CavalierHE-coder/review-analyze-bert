@@ -150,7 +150,7 @@ Training environment: laptop RTX 5060 (8GB), bf16 mixed precision, about 15 it/s
 
 The trained weights can be downloaded from the address below and placed at `models/model.pt`:
 
-- HuggingFace: link to be added
+- HuggingFace: https://huggingface.co/CavalierHE/bert-base-chinese-review-sentiment
 
 ## Problems Encountered
 

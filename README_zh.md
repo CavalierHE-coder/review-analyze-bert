@@ -148,7 +148,7 @@ python src/predict.py
 
 训练好的权重可从以下地址下载,放到 `models/model.pt`:
 
-- HuggingFace:待补充链接
+- HuggingFace:https://huggingface.co/CavalierHE/bert-base-chinese-review-sentiment
 
 ## 遇到过的问题
 
