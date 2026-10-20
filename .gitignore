@@ -1,6 +1,6 @@
 ﻿pretrained/
 models/
-data/
+data/processed/
 logs/
 *.pt
 *.pth

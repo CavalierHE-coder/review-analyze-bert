@@ -60,7 +60,6 @@ pip install -r requirements.txt
 
 使用公开的中文电商评论数据集 `online_shopping_10_cats.csv`(10 个品类的商品评论,标签 0 为负面、1 为正面)。
 
-请将文件放到 `data/raw/` 目录下。数据版权归原作者所有,本仓库不包含数据文件。
 
 ## 预训练模型
 

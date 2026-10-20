@@ -60,7 +60,6 @@ pip install -r requirements.txt
 
 This project uses the public Chinese e-commerce review dataset `online_shopping_10_cats.csv` (product reviews from 10 categories; label 0 is negative, 1 is positive).
 
-Place the file in `data/raw/`. The dataset's copyright belongs to its original authors, and this repository does not include the data file.
 
 ## Pretrained Model
 
